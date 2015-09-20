@@ -1,0 +1,18 @@
+{
+  "name": "react-cursor",
+  "version": "1.2.0",
+  "homepage": "https://github.com/dustingetz/react-cursor",
+  "authors": [
+    "Dustin Getz",
+    "Daniel Miladinov",
+    "Wingspan Technology, Inc."
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {}
+}
